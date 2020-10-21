@@ -1,0 +1,41 @@
+.margin-auto {
+  margin: auto;
+}
+
+.dashed-border {
+  border: 2px dashed grey;
+}
+
+.margin-box {
+  height: 290px;
+  width: 540px;
+  background-color: rgb(128, 128, 128, 0.2);
+}
+
+.border-box {
+  height: 210px;
+  width: 440px;
+  background-color: green;
+  padding-top: 0px;
+}
+
+.padding-box {
+  height: 140px;
+  width: 350px;
+  background-color: rgb(128, 128, 128);
+  padding-top: 0px;
+}
+
+.content-box {
+  height: 50px;
+  width: 260px;
+  background-color: white;
+
+  padding-top: 20px;
+}
+
+p {
+  font-size: xx-large;
+  text-align: center;
+  margin-top: 0px;
+}
